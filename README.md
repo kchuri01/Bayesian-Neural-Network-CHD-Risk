@@ -23,5 +23,4 @@ Unlike deterministic neural networks, the Bayesian approach provides uncertainty
 
 ## Files
 - `bnn_framingham.ipynb`: Colab notebook with full implementation
-- `bnn_framingham.py`: Script version of the model
 - `framingham.csv.xls`: Dataset used for training and evaluation
